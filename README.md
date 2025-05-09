@@ -1,4 +1,5 @@
-# Data science intern task 
+# Data science intern task for DMR company
+# Successfully passed with creating sentiment analysis model and training it
 
 # Getting started
 
